@@ -15,13 +15,13 @@ Follow these steps to set up and run the Prisma Schema to Drizzle Converter:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/typytypytypy/prisma-schema-to-drizzle.git
+   git clone https://github.com/typytypytypy/prisma-to-drizzle.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd prisma-schema-to-drizzle
+   cd prisma-to-drizzle
    ```
 
 3. Install project dependencies:
