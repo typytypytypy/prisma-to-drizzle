@@ -1,0 +1,11 @@
+{
+  "name": "sample-project",
+  "author": "Erika Maynard",
+  "license": "",
+  "sideEffects": false,
+  "scripts": {
+    "convert-prisma-to-drizzle": "npx ts-node -T convert-prisma.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
